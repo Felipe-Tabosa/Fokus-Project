@@ -4,4 +4,4 @@
 e assim manter uma melhor produtividade.</p>
 
 <p align = "center">Trabalho feito junto do Professor da Alura, João Vitor Preira.</p>
-<img src = "/imagens/logo.png">
+<img align = "center" src = "/imagens/logo.png">
